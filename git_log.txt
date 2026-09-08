@@ -1,0 +1,45 @@
+commit cfa5492e913e7af7bdd58d7525e5aaf03cec23ac
+Merge: 465c1c9 6ddb6f0
+Author: Adolfo Fabian <afabianhe04@gmail.com>
+Date:   Mon Sep 7 23:09:25 2026 -0700
+
+    Resolved merge conflict
+
+commit 6ddb6f0bf319e30b3862ef4969e30dc83a483a37
+Author: Adolfo Fabian <afabianhe04@gmail.com>
+Date:   Mon Sep 7 23:05:56 2026 -0700
+
+    Added my favorite game
+
+commit 465c1c93c79ca4694008caa250788d0484e73f79
+Author: Adolfo Fabian <afabianhe04@gmail.com>
+Date:   Mon Sep 7 23:03:18 2026 -0700
+
+    Added my favorite food
+
+commit f712c463ee4872dec9bf9b8a8d71fc803dc08316
+Author: Adolfo Fabian <afabianhe04@gmail.com>
+Date:   Mon Sep 7 22:58:10 2026 -0700
+
+    Add README
+
+commit e6da8f94f371b1643b404cac377b8d4936c5d8cf
+Merge: 1d2bfc0 b8dc738
+Author: afabianhe04 <afabianhe04@gmail.com>
+Date:   Mon Sep 7 22:52:49 2026 -0700
+
+    Merge pull request #1 from afabianhe04/info-fill
+    
+    Filled blanks with my info
+
+commit b8dc738968f631e4e49395202c3dc1c22a711d3d
+Author: Adolfo Fabian <afabianhe04@gmail.com>
+Date:   Mon Sep 7 22:45:59 2026 -0700
+
+    Filled blanks with my info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
